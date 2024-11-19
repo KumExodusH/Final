@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+header {
+    background-color: #d6eaf8; /* A lighter pastel blue for contrast */
+}
+
+header img {
+    border: 5px solid #000000;
+}
+h1, h2 {
+    color: #333;
+}
+
+/* Navbar background color */
+.navbar {
+    background-color: #5ccaf1; /* or whatever color you like */
+}
+
+/* Navbar links text color */
+.navbar .nav-link {
+    color: white; /* Change nav links to white */
+}
+
+.navbar .navbar-brand {
+    color: white; /* Change brand text to white */
+}
+
+/* Optional: Change text color when hovering */
+.navbar .nav-link:hover {
+    color: #f8f9fa; /* A lighter color on hover */
+}
+
+#quick-contact {
+    background-color: #0056b3; /* Deep blue */
+    color: #ffffff; /* White text */
+}
+
+#quick-contact a {
+    color: #ffffff; /* White links */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+#quick-contact a:hover {
+    color: #aedff7; /* Light blue on hover */
+}
+
+#quick-contact ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+#quick-contact .social-icons img {
+    width: 30px;
+    transition: transform 0.2s ease;
+}
+
+#quick-contact .social-icons img:hover {
+    transform: scale(1.2);
+}
+
+.social-link span {
+    color: white; /* Changes the span text color to white */
+}
+
+.social-link:hover span {
+    color: #f8f9fa; /* Lighter color on hover for contrast */
+}
+
+
