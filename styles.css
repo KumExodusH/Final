@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
 }
 header {
-    background-color: #d6eaf8; /* A lighter pastel blue for contrast */
+    background-color: #d6eaf8; 
 }
 
 header img {
@@ -13,38 +13,35 @@ h1, h2 {
     color: #333;
 }
 
-/* Navbar background color */
 .navbar {
-    background-color: #5ccaf1; /* or whatever color you like */
+    background-color: #5ccaf1; 
 }
 
-/* Navbar links text color */
 .navbar .nav-link {
-    color: white; /* Change nav links to white */
+    color: white; 
 }
 
 .navbar .navbar-brand {
-    color: white; /* Change brand text to white */
+    color: white; 
 }
 
-/* Optional: Change text color when hovering */
 .navbar .nav-link:hover {
-    color: #f8f9fa; /* A lighter color on hover */
+    color: #f8f9fa;
 }
 
 #quick-contact {
-    background-color: #0056b3; /* Deep blue */
-    color: #ffffff; /* White text */
+    background-color: #0056b3; 
+    color: #ffffff;
 }
 
 #quick-contact a {
-    color: #ffffff; /* White links */
+    color: #ffffff;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 #quick-contact a:hover {
-    color: #aedff7; /* Light blue on hover */
+    color: #aedff7;
 }
 
 #quick-contact ul {
@@ -62,11 +59,11 @@ h1, h2 {
 }
 
 .social-link span {
-    color: white; /* Changes the span text color to white */
+    color: white; 
 }
 
 .social-link:hover span {
-    color: #f8f9fa; /* Lighter color on hover for contrast */
+    color: #f8f9fa; 
 }
 
 
